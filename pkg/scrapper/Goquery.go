@@ -11,7 +11,7 @@ import (
 )
 
 const (
-	exportUrl string = "export/goquery.csv"
+	exportUrl string = "output/goquery.csv"
 )
 
 type GoqueryPkg struct{}
